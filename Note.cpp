@@ -9,8 +9,6 @@
 //
 //
 
-//Bonjour
-
 #include "Note.h"
 
 ostream & operator<< (ostream & os, const Note & n)
